@@ -1,6 +1,6 @@
 Kaggle - Quora Question Pairs
 
-Melania Berbatova (11961279), Sophie Kamuf(11612851)
+Collaboration with Melania Berbatova
 
 Our project contains 6 files. We got our best submission (accuracy of 0.76) running XGBoost. Files should be run in the following order: 
 
